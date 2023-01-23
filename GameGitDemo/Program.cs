@@ -1,4 +1,6 @@
-﻿namespace GameGitDemo;
+﻿global using static System.Console;
+
+namespace GameGitDemo;
 
 internal class Program
 {
