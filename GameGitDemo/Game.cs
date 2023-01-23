@@ -5,6 +5,7 @@ internal class Game
 
     public void Run()
     {
+        Title = "My Game";
         WriteLine("=== Welcome to the Game ===");
 
         Write("What is your name? ");
